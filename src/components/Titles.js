@@ -3,7 +3,7 @@ import React from 'react';
 const Titles = () => (
             <div>
                 <h1 className="title-container__title"> Weather Finder </h1>
-                <h3 className="title-container__subtitle"> Here you can find the current weather data of all countries and cities as well..  </h3>
+                <h3 className="title-container__subtitle"> Here you can find the details of the current weather for the desired city </h3>
             </div>
         );
 

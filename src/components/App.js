@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Titles from './Titles';
 import Form from './Form';
 import Weather from './Weather';
+import ClearForm from './ClearForm';
 
 
 const API_KEY = '03d9fde91229f7d17edb275e8bb55d82';
@@ -44,6 +45,18 @@ class App extends Component {
 
     }
   }
+
+  clearForm = e => {
+    e.preventDefault();
+    this.setState({ 
+      temperature: "",
+        city: "",
+        country: "",
+        humidity: "",
+        description: ""
+    })
+  }
+
   render() {
     return (
       <div>
@@ -64,6 +77,7 @@ class App extends Component {
                     description={this.state.description}
                     error={this.state.error}
                   />
+                  <ClearForm clearForm={this.clearForm}/>
                 </div>
               </div>
             </div>

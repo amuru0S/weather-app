@@ -5,7 +5,6 @@ const Form = props => (
                 <input className="input-city" type='text' name='city' placeholder='city..' />
                 <input className="input-country" type='text' name='country' placeholder='country..' />
                 <button type='submit' className="get-weather"> Get Weather </button>
-                <i className="fa fa-refresh fa-spin"></i>
             </form>
         );
   

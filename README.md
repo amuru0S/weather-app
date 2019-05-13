@@ -1,21 +1,21 @@
 # :sunny::umbrella::cloud::cyclone: Weather Finder :snowflake::snowman::zap::foggy:
 
-## :full_moon_with_face: **[Check out the deployed version here](https://weather-status-finder.netlify.com)** :new_moon_with_face:
+## :full_moon_with_face::point_right: **[Check out the deployed version here](https://weather-status-finder.netlify.com)** :point_left::new_moon_with_face:
 
-## What this project is about
+## *What this project is about*
 
 This is a simple reactJS application that displays the exact temperature, humidity and some additional description upon entering the value of desired city and country.
 
-### Table of Contents
+### *Table of Contents*
 
-* **[Technologies used]()**
-* **[Goals for this project]()**
-* **[My git workflow]()**
-* **[Useful references](https://github.com/amuru0S/Meme-Generator#useful-references)**
-* **[create-react-app docs]()**
+* **[Technologies used](https://github.com/amuru0S/weather-app#technologies-used)**
+* **[Goals for this project](https://github.com/amuru0S/weather-app#goals-for-this-project)**
+* **[My git workflow](https://github.com/amuru0S/weather-app#my-git-workflow)**
+* **[Useful references](https://github.com/amuru0S/weather-app#useful-references)**
+* **[create-react-app docs](https://github.com/amuru0S/weather-app#create-react-app-docs)**
 
 
-### Technologies used
+### *Technologies used*
 
 :eyes::point_down:**Click links to view some samples in this project** :point_down::eyes:
 
@@ -25,13 +25,13 @@ This is a simple reactJS application that displays the exact temperature, humidi
 * **[fontawesome]()**
 
 
-### Goals for this project
+### *Goals for this project*
 
 * To practice for myself
 * How to use an asynchronous javascript function to fetch a data from API
 
 
-### My git workflow
+### *My git workflow*
 
 In this project i tried to use:
 
@@ -39,13 +39,13 @@ In this project i tried to use:
 * time-to-time pushes
 * proper commit messages
 
-### Useful references
+### *Useful references*
 
 * **[react](https://reactjs.org/docs/getting-started.html)**
 * **[markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)**
 * **[HEX color code picker](https://flatuicolors.com/)**
 
-### create-react-app docs
+### *create-react-app docs*
 
 This project is bootstrapped using the create-react-app cli.
 

@@ -1,6 +1,6 @@
 # :sunny::umbrella::cloud::cyclone: Weather Finder :snowflake::snowman::zap::foggy:
 
-:full_moon_with_face: **[Check out the deployed version here](https://weather-status-finder.netlify.com)** :new_moon_with_face:
+## :full_moon_with_face: **[Check out the deployed version here](https://weather-status-finder.netlify.com)** :new_moon_with_face:
 
 ## What this project is about
 
